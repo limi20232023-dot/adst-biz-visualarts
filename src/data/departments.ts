@@ -201,7 +201,7 @@ export const defaultTeachers: Teacher[] = [
     id: 't-biz-1',
     src: '/images/Teachers_Photos/3.jpg',
     fallbackSrc: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&q=80',
-    name: 'Ms. Nicole de',
+    name: 'Ms. Nicole de Jager',
     department: 'business',
     bio: 'AP Macro Economics, AP Micro Economics, Accounting11/12, Economics11/12.',
   },
