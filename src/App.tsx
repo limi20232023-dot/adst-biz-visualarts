@@ -12,10 +12,10 @@ import { departments, defaultTeachers, type GalleryImage, type Teacher } from '.
 
 type DepartmentImagesMap = Record<string, GalleryImage[]>;
 
-const STORAGE_KEY_IMAGES = 'adst-gallery-images-v3';
-const STORAGE_KEY_TAB = 'adst-active-tab-v3';
+const STORAGE_KEY_IMAGES = 'adst-gallery-images-v4';
+const STORAGE_KEY_TAB = 'adst-active-tab-v4';
 const STORAGE_KEY_TITLE = 'adst-site-title';
-const STORAGE_KEY_TEACHERS = 'adst-teachers-v3';
+const STORAGE_KEY_TEACHERS = 'adst-teachers-v4';
 const STORAGE_KEY_TEACHERS_SUBTITLE = 'adst-teachers-subtitle';
 
 function loadSavedImages(): DepartmentImagesMap | null {
