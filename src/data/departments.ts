@@ -36,8 +36,8 @@ export const departments: Department[] = [
         id: 'cs-1',
         src: '/images/Computer_Science_Photos/1.jpg',
         fallbackSrc: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80',
-        caption: 'Artificial Intelligence & Deep Learning Research Lab',
-        category: 'AI'
+        caption: 'Students printing their ideas to life',
+        category: '3D Printing'
       },
       {
         id: 'cs-2',
