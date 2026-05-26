@@ -185,7 +185,7 @@ export const defaultTeachers: Teacher[] = [
     id: 't-cs-1',
     src: '/images/Teachers_Photos/1.jpg',
     fallbackSrc: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80',
-    name: 'Mr.Tsegai Seb',
+    name: 'Mr.Tsegai Sebatu',
     department: 'computer-science',
     bio: 'Taught: APCSA, APCSP, CS12, CS11, CS10, Calculus12, PC12, PC11, Math10.',
   },
